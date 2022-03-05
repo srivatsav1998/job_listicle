@@ -2,5 +2,8 @@
 	"name": "Job Listicle",
 	"description": "This will help you track all your job application related information in your google spreadsheet and leaves you tension free.",
 	"version": "1.0",
-	"manifest_version": 3
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "popup.html"
+	  }
 }
